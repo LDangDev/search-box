@@ -9,3 +9,6 @@ git clone https://github.com/LDangDev/search-box.git
 ### Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br />
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br />
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br />
+### Preview
+![Search-box preview](https://github.com/LDangDev/Modal/blob/main/ezgif.com-gif-maker.gif)
